@@ -64,6 +64,7 @@ button, .bottom {
     font-size: 18px;
     font-weight: 800;
     font-style: normal;
+    align-items: end;
 }
 
 header {
@@ -109,7 +110,16 @@ header {
     margin-bottom: 50px;
 }
 
+.quote {
+    justify-content: center;
+    align-items: center;
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
 }
+
 
 
 
